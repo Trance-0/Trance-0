@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: left;">
 
-<div style="max-width: 100%; height: auto; width: 320px;">
+<div style="max-width: 100%; height: auto; width: 318px;">
 <h3>🧑‍💻 About Me</h3>
 
 <p>My name is <strong>Zheyuan</strong> (pronounce as "Jay-One")</p>
