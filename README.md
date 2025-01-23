@@ -2,7 +2,12 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: left;">
 
-<div style="max-width: 100%; height: auto; width: 318px;">
+<div style="max-width: 100%; height: auto; width: 730px;">
+<img align="right" style="max-width: 100%; height:300px;" src="https://leetcard.jacoblin.cool/Trance-0?ext=contest" alt="Leetcode Stats"/>
+<!-- <img src="https://leetcard.jacoblin.cool/Cobalt_3902?ext=contest" alt="Leetcode Stats"/> -->
+</div>
+
+<div style="max-width: 100%; height: auto; width: 730px;">
 <h3>🧑‍💻 About Me</h3>
 
 <p>My name is <strong>Zheyuan</strong> (pronounce as "Jay-One")</p>
@@ -19,11 +24,6 @@
 </ul>
 </div>
 
-<div style="max-width: 100%; height: auto; width: 400px;">
-
-<img style="max-width: 100%; height: auto;" src="https://leetcard.jacoblin.cool/Trance-0?ext=contest" alt="Leetcode Stats"/>
-<!-- <img src="https://leetcard.jacoblin.cool/Cobalt_3902?ext=contest" alt="Leetcode Stats"/> -->
-</div>
 </div>
 
 <h3>📊 GitHub Stats</h3>
