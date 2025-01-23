@@ -28,9 +28,9 @@
 
 <h3>📊 GitHub Stats</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: left;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-between;">
     <img style="max-width: 100%; height: 180px; width: auto;" src="https://github-readme-stats.vercel.app/api?username=Trance-0&show_icons=true&theme=light" />
-    <img style="max-width: 100%; height: 180px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trance-0&layout=compact&theme=light" />
+    <img align="right" style="max-width: 100%; height: 180px; width: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trance-0&layout=compact&theme=light" />
 </div>
 <br>
 <p>Stat's may not be accurate since I'm using Unity for some repos. LOL</p>
